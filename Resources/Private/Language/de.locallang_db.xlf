@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" target-language="de">
+        <header/>
+        <body>
+            <trans-unit id="title">
+                <source>Update cooluri cache</source>
+                <target>Cooluri-Cache aktualisieren</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
